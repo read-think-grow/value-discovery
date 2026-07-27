@@ -1,62 +1,8 @@
 {
-  "generated_at": "2026-07-26T09:48:04.229950+08:00",
+  "generated_at": "2026-07-27T09:55:26.276093+08:00",
   "system": "中国上市公司消费者行为雷达 v6.0",
   "brand_count": 15,
   "brands": [
-    {
-      "name": "携程",
-      "code": "9961",
-      "market": "港股",
-      "industry": "在线旅游",
-      "google": {
-        "growth_1m": -18.2,
-        "growth_3m": -16.3,
-        "recent_value": 36.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
-          "count": 1,
-          "titles": [
-            "央视解读携程巨额罚单"
-          ]
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
-          "count": 2,
-          "titles": [
-            "携程回应被处罚",
-            "携程被罚51.79亿元"
-          ]
-        }
-      },
-      "platform_count": 2,
-      "trends": {
-        "google_1m": -18.2,
-        "google_3m": -16.3,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 17,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 17,
-        "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 17,
-        "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 17,
-        "百度_7d": null,
-        "百度_30d": null,
-        "百度_days": 17
-      }
-    },
     {
       "name": "泡泡玛特",
       "code": "9992",
@@ -77,6 +23,59 @@
           "titles": []
         },
         "知乎热榜": {
+          "count": 1,
+          "titles": [
+            "段永平称 10 年内大概率不会卖泡泡玛特？十年后的泡泡玛特会是什么样子？"
+          ]
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
+        }
+      },
+      "platform_count": 1,
+      "trends": {
+        "google_1m": -32.1,
+        "google_3m": -44.1,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 18,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 18,
+        "微博_7d": null,
+        "微博_30d": null,
+        "微博_days": 18,
+        "知乎_7d": null,
+        "知乎_30d": null,
+        "知乎_days": 18,
+        "百度_7d": null,
+        "百度_30d": null,
+        "百度_days": 18
+      }
+    },
+    {
+      "name": "小米集团",
+      "code": "1810",
+      "market": "港股",
+      "industry": "消费电子",
+      "google": {
+        "growth_1m": -25.0,
+        "growth_3m": -20.3,
+        "recent_value": 51.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 1,
+          "titles": [
+            "小米澎程发布会定档"
+          ]
+        },
+        "百度热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "知乎热榜": {
           "count": 0,
           "titles": []
         },
@@ -85,25 +84,76 @@
           "titles": []
         }
       },
-      "platform_count": 0,
+      "platform_count": 1,
       "trends": {
-        "google_1m": -32.1,
-        "google_3m": -44.1,
+        "google_1m": -25.0,
+        "google_3m": -20.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 17,
+        "抖音_days": 18,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 17,
+        "小红书_days": 18,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 17,
+        "微博_days": 18,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 17,
+        "知乎_days": 18,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 17
+        "百度_days": 18
+      }
+    },
+    {
+      "name": "腾讯控股",
+      "code": "0700",
+      "market": "港股",
+      "industry": "互联网",
+      "google": {
+        "growth_1m": -27.9,
+        "growth_3m": -14.9,
+        "recent_value": 57.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "百度热搜": {
+          "count": 1,
+          "titles": [
+            "奸商卖毒药材专攻视频号用户"
+          ]
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
+        }
+      },
+      "platform_count": 1,
+      "trends": {
+        "google_1m": -27.9,
+        "google_3m": -14.9,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 18,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 18,
+        "微博_7d": null,
+        "微博_30d": -100.0,
+        "微博_days": 18,
+        "知乎_7d": null,
+        "知乎_30d": null,
+        "知乎_days": 18,
+        "百度_7d": null,
+        "百度_30d": 0.0,
+        "百度_days": 18
       }
     },
     {
@@ -140,68 +190,19 @@
         "google_3m": 6.7,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 17,
+        "抖音_days": 18,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 17,
+        "小红书_days": 18,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 17,
+        "微博_days": 18,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 17,
-        "百度_7d": -100.0,
-        "百度_30d": null,
-        "百度_days": 17
-      }
-    },
-    {
-      "name": "小米集团",
-      "code": "1810",
-      "market": "港股",
-      "industry": "消费电子",
-      "google": {
-        "growth_1m": -25.0,
-        "growth_3m": -20.3,
-        "recent_value": 51.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
-          "count": 0,
-          "titles": []
-        }
-      },
-      "platform_count": 0,
-      "trends": {
-        "google_1m": -25.0,
-        "google_3m": -20.3,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 17,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 17,
-        "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 17,
-        "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 17,
+        "知乎_days": 18,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 17
+        "百度_days": 18
       }
     },
     {
@@ -238,19 +239,19 @@
         "google_3m": -12.5,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 17,
+        "抖音_days": 18,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 17,
+        "小红书_days": 18,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 17,
+        "微博_days": 18,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 17,
+        "知乎_days": 18,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 17
+        "百度_days": 18
       }
     },
     {
@@ -287,68 +288,19 @@
         "google_3m": -8.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 17,
+        "抖音_days": 18,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 17,
+        "小红书_days": 18,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 17,
+        "微博_days": 18,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 17,
+        "知乎_days": 18,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 17
-      }
-    },
-    {
-      "name": "腾讯控股",
-      "code": "0700",
-      "market": "港股",
-      "industry": "互联网",
-      "google": {
-        "growth_1m": -27.9,
-        "growth_3m": -14.9,
-        "recent_value": 57.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
-          "count": 0,
-          "titles": []
-        }
-      },
-      "platform_count": 0,
-      "trends": {
-        "google_1m": -27.9,
-        "google_3m": -14.9,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 17,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 17,
-        "微博_7d": null,
-        "微博_30d": -100.0,
-        "微博_days": 17,
-        "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 17,
-        "百度_7d": null,
-        "百度_30d": -100.0,
-        "百度_days": 17
+        "百度_days": 18
       }
     },
     {
@@ -385,19 +337,19 @@
         "google_3m": 8.4,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 17,
+        "抖音_days": 18,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 17,
+        "小红书_days": 18,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 17,
+        "微博_days": 18,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 17,
+        "知乎_days": 18,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 17
+        "百度_days": 18
       }
     },
     {
@@ -434,19 +386,68 @@
         "google_3m": -46.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 17,
+        "抖音_days": 18,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 17,
+        "小红书_days": 18,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 17,
+        "微博_days": 18,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 17,
+        "知乎_days": 18,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 17
+        "百度_days": 18
+      }
+    },
+    {
+      "name": "携程",
+      "code": "9961",
+      "market": "港股",
+      "industry": "在线旅游",
+      "google": {
+        "growth_1m": -18.2,
+        "growth_3m": -16.3,
+        "recent_value": 36.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "百度热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
+        }
+      },
+      "platform_count": 0,
+      "trends": {
+        "google_1m": -18.2,
+        "google_3m": -16.3,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 18,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 18,
+        "微博_7d": null,
+        "微博_30d": null,
+        "微博_days": 18,
+        "知乎_7d": null,
+        "知乎_30d": null,
+        "知乎_days": 18,
+        "百度_7d": null,
+        "百度_30d": null,
+        "百度_days": 18
       }
     },
     {
@@ -483,19 +484,19 @@
         "google_3m": 72.2,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 17,
+        "抖音_days": 18,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 17,
+        "小红书_days": 18,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 17,
+        "微博_days": 18,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 17,
+        "知乎_days": 18,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 17
+        "百度_days": 18
       }
     },
     {
@@ -532,19 +533,19 @@
         "google_3m": -12.2,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 17,
+        "抖音_days": 18,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 17,
+        "小红书_days": 18,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 17,
+        "微博_days": 18,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 17,
+        "知乎_days": 18,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 17
+        "百度_days": 18
       }
     },
     {
@@ -581,19 +582,19 @@
         "google_3m": 109.5,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 17,
+        "抖音_days": 18,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 17,
+        "小红书_days": 18,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 17,
+        "微博_days": 18,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 17,
+        "知乎_days": 18,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 17
+        "百度_days": 18
       }
     },
     {
@@ -630,19 +631,19 @@
         "google_3m": -23.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 17,
+        "抖音_days": 18,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 17,
+        "小红书_days": 18,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 17,
+        "微博_days": 18,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 17,
+        "知乎_days": 18,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 17
+        "百度_days": 18
       }
     },
     {
@@ -679,19 +680,19 @@
         "google_3m": -54.4,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 17,
+        "抖音_days": 18,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 17,
+        "小红书_days": 18,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 17,
+        "微博_days": 18,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 17,
+        "知乎_days": 18,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 17
+        "百度_days": 18
       }
     },
     {
@@ -728,19 +729,19 @@
         "google_3m": -10.0,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 17,
+        "抖音_days": 18,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 17,
+        "小红书_days": 18,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 17,
+        "微博_days": 18,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 17,
+        "知乎_days": 18,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 17
+        "百度_days": 18
       }
     }
   ],
@@ -748,48 +749,48 @@
     "抖音总榜": [
       {
         "rank": 1,
-        "title": "台风红霞最新路径"
+        "title": "重庆彭水发现失联中巴车残骸"
       },
       {
         "rank": 2,
-        "title": "台风红霞登陆广东"
+        "title": "长鑫科技今日上市"
       },
       {
         "rank": 3,
-        "title": "海上“超级心脏”就位"
+        "title": "红树林保护获亮眼成绩"
       },
       {
         "rank": 4,
-        "title": "IG战胜WBG"
+        "title": "夏日复古风通勤穿搭来啦"
       },
       {
         "rank": 5,
-        "title": "复盘一周穿搭思路"
+        "title": "万千气象看青海"
       },
       {
         "rank": 6,
-        "title": "初中生也能看懂的挂谷猜想解析"
+        "title": "台网红馆长反对毒油事件"
       },
       {
         "rank": 7,
-        "title": "中国男篮击败格鲁吉亚男篮"
+        "title": "佩德里西班牙小伙体验中国文化"
       },
       {
         "rank": 8,
-        "title": "当我打算走去赛里木湖"
+        "title": "永州队“争议世界波”申诉成功"
       },
       {
         "rank": 9,
-        "title": "携程回应被处罚"
+        "title": "铁路部门回应李姓艺人高铁占座"
       },
       {
         "rank": 10,
-        "title": "苏超积分榜更新"
+        "title": "中超浙江队3:2战胜大连英博"
       }
     ]
   },
   "meta": {
-    "data_time": "2026-07-26 09:48 CST",
+    "data_time": "2026-07-27 09:55 CST",
     "platforms": [
       "抖音总榜",
       "小红书热榜",
@@ -798,9 +799,9 @@
       "百度热搜"
     ],
     "history": {
-      "total_records": 2040,
-      "date_range": "2026-07-10 ~ 2026-07-26",
-      "days": 17,
+      "total_records": 2160,
+      "date_range": "2026-07-10 ~ 2026-07-27",
+      "days": 18,
       "companies": 15
     }
   }
