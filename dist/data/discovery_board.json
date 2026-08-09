@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T08:51:24.417792+08:00",
+  "generated_at": "2026-08-09T08:54:12.374402+08:00",
   "system": "中国上市公司消费者行为雷达 v6.0",
   "brand_count": 15,
   "brands": [
@@ -15,71 +15,18 @@
       },
       "platforms": {
         "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
           "count": 1,
           "titles": [
-            "微信新功能：你可以“撤回”你的撤回"
+            "王者荣耀"
           ]
-        },
-        "知乎热榜": {
-          "count": 1,
-          "titles": [
-            "外媒曝腾讯《最后的哨兵》烧数亿美金 6 年仍无果，为啥腾讯做不出好的 3A 开放世界作品？"
-          ]
-        },
-        "抖音总榜": {
-          "count": 0,
-          "titles": []
-        }
-      },
-      "platform_count": 2,
-      "trends": {
-        "google_1m": -27.9,
-        "google_3m": -14.9,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 30,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 30,
-        "微博_7d": null,
-        "微博_30d": -100.0,
-        "微博_days": 30,
-        "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 30,
-        "百度_7d": null,
-        "百度_30d": 0.0,
-        "百度_days": 30
-      }
-    },
-    {
-      "name": "携程",
-      "code": "9961",
-      "market": "港股",
-      "industry": "在线旅游",
-      "google": {
-        "growth_1m": -18.2,
-        "growth_3m": -16.3,
-        "recent_value": 36.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 0,
-          "titles": []
         },
         "百度热搜": {
           "count": 0,
           "titles": []
         },
         "知乎热榜": {
-          "count": 1,
-          "titles": [
-            "地球一次自转需要 23 小时 56 分钟，剩下的 4 分钟去哪儿了呢？"
-          ]
+          "count": 0,
+          "titles": []
         },
         "抖音总榜": {
           "count": 0,
@@ -88,23 +35,23 @@
       },
       "platform_count": 1,
       "trends": {
-        "google_1m": -18.2,
-        "google_3m": -16.3,
+        "google_1m": -27.9,
+        "google_3m": -14.9,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 30,
+        "抖音_days": 31,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 30,
-        "微博_7d": -100.0,
-        "微博_30d": null,
-        "微博_days": 30,
+        "小红书_days": 31,
+        "微博_7d": null,
+        "微博_30d": 0.0,
+        "微博_days": 31,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 30,
+        "知乎_days": 31,
         "百度_7d": null,
-        "百度_30d": null,
-        "百度_days": 30
+        "百度_30d": -100.0,
+        "百度_days": 31
       }
     },
     {
@@ -141,19 +88,19 @@
         "google_3m": -44.1,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 30,
+        "抖音_days": 31,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 30,
+        "小红书_days": 31,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 30,
+        "微博_days": 31,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 30,
+        "知乎_days": 31,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 30
+        "百度_days": 31
       }
     },
     {
@@ -190,19 +137,19 @@
         "google_3m": 6.7,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 30,
+        "抖音_days": 31,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 30,
+        "小红书_days": 31,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 30,
+        "微博_days": 31,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 30,
+        "知乎_days": 31,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 30
+        "百度_days": 31
       }
     },
     {
@@ -239,19 +186,19 @@
         "google_3m": -20.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 30,
+        "抖音_days": 31,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 30,
-        "微博_7d": null,
+        "小红书_days": 31,
+        "微博_7d": -100.0,
         "微博_30d": null,
-        "微博_days": 30,
+        "微博_days": 31,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 30,
+        "知乎_days": 31,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 30
+        "百度_days": 31
       }
     },
     {
@@ -288,19 +235,19 @@
         "google_3m": -12.5,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 30,
+        "抖音_days": 31,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 30,
+        "小红书_days": 31,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 30,
+        "微博_days": 31,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 30,
+        "知乎_days": 31,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 30
+        "百度_days": 31
       }
     },
     {
@@ -337,19 +284,19 @@
         "google_3m": -8.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 30,
+        "抖音_days": 31,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 30,
+        "小红书_days": 31,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 30,
+        "微博_days": 31,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 30,
+        "知乎_days": 31,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 30
+        "百度_days": 31
       }
     },
     {
@@ -386,19 +333,19 @@
         "google_3m": 8.4,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 30,
+        "抖音_days": 31,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 30,
+        "小红书_days": 31,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 30,
+        "微博_days": 31,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 30,
+        "知乎_days": 31,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 30
+        "百度_days": 31
       }
     },
     {
@@ -435,19 +382,68 @@
         "google_3m": -46.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 30,
+        "抖音_days": 31,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 30,
+        "小红书_days": 31,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 30,
+        "微博_days": 31,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 30,
+        "知乎_days": 31,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 30
+        "百度_days": 31
+      }
+    },
+    {
+      "name": "携程",
+      "code": "9961",
+      "market": "港股",
+      "industry": "在线旅游",
+      "google": {
+        "growth_1m": -18.2,
+        "growth_3m": -16.3,
+        "recent_value": 36.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "百度热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
+        }
+      },
+      "platform_count": 0,
+      "trends": {
+        "google_1m": -18.2,
+        "google_3m": -16.3,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 31,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 31,
+        "微博_7d": null,
+        "微博_30d": null,
+        "微博_days": 31,
+        "知乎_7d": null,
+        "知乎_30d": null,
+        "知乎_days": 31,
+        "百度_7d": null,
+        "百度_30d": null,
+        "百度_days": 31
       }
     },
     {
@@ -484,19 +480,19 @@
         "google_3m": 72.2,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 30,
+        "抖音_days": 31,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 30,
+        "小红书_days": 31,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 30,
+        "微博_days": 31,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 30,
+        "知乎_days": 31,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 30
+        "百度_days": 31
       }
     },
     {
@@ -533,19 +529,19 @@
         "google_3m": -12.2,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 30,
+        "抖音_days": 31,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 30,
+        "小红书_days": 31,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 30,
+        "微博_days": 31,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 30,
+        "知乎_days": 31,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 30
+        "百度_days": 31
       }
     },
     {
@@ -582,19 +578,19 @@
         "google_3m": 109.5,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 30,
+        "抖音_days": 31,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 30,
+        "小红书_days": 31,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 30,
+        "微博_days": 31,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 30,
+        "知乎_days": 31,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 30
+        "百度_days": 31
       }
     },
     {
@@ -631,19 +627,19 @@
         "google_3m": -23.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 30,
+        "抖音_days": 31,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 30,
+        "小红书_days": 31,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 30,
+        "微博_days": 31,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 30,
+        "知乎_days": 31,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 30
+        "百度_days": 31
       }
     },
     {
@@ -680,19 +676,19 @@
         "google_3m": -54.4,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 30,
+        "抖音_days": 31,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 30,
+        "小红书_days": 31,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 30,
+        "微博_days": 31,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 30,
+        "知乎_days": 31,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 30
+        "百度_days": 31
       }
     },
     {
@@ -729,19 +725,19 @@
         "google_3m": -10.0,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 30,
+        "抖音_days": 31,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 30,
+        "小红书_days": 31,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 30,
+        "微博_days": 31,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 30,
+        "知乎_days": 31,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 30
+        "百度_days": 31
       }
     }
   ],
@@ -753,44 +749,44 @@
       },
       {
         "rank": 2,
-        "title": "EDG 1:2 TEC"
+        "title": "台风白海豚已闭眼"
       },
       {
         "rank": 3,
-        "title": "上半年中小企业稳步向好"
+        "title": "数说城市地下管网"
       },
       {
         "rank": 4,
-        "title": "TES 2:0战胜BLG"
+        "title": "用慢充旅行治愈自己"
       },
       {
         "rank": 5,
-        "title": "我妈才是真的NPC吧"
+        "title": "早秋韩系奶油风穿搭"
       },
       {
         "rank": 6,
-        "title": "转眼又是一年秋"
+        "title": "大连英博1:0辽宁铁人"
       },
       {
         "rank": 7,
-        "title": "夏天要结束了对吧"
+        "title": "人总在夏天回忆冬天"
       },
       {
         "rank": 8,
-        "title": "老辈子秋天的第一杯奶茶"
+        "title": "我只是来地球散步的"
       },
       {
         "rank": 9,
-        "title": "我好像在哪见过你又杀回来了"
+        "title": "火把节的抹黑祝福"
       },
       {
         "rank": 10,
-        "title": "把秋天的仪式感捧在手心"
+        "title": "A股多家上市公司收到美政府退税"
       }
     ]
   },
   "meta": {
-    "data_time": "2026-08-08 08:51 CST",
+    "data_time": "2026-08-09 08:54 CST",
     "platforms": [
       "抖音总榜",
       "小红书热榜",
@@ -799,9 +795,9 @@
       "百度热搜"
     ],
     "history": {
-      "total_records": 3600,
-      "date_range": "2026-07-10 ~ 2026-08-08",
-      "days": 30,
+      "total_records": 3720,
+      "date_range": "2026-07-10 ~ 2026-08-09",
+      "days": 31,
       "companies": 15
     }
   }
