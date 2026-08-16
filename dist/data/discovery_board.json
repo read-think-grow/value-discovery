@@ -1,59 +1,8 @@
 {
-  "generated_at": "2026-08-15T08:37:50.949168+08:00",
+  "generated_at": "2026-08-16T08:39:29.633970+08:00",
   "system": "中国上市公司消费者行为雷达 v6.0",
   "brand_count": 15,
   "brands": [
-    {
-      "name": "蜜雪集团",
-      "code": "2097",
-      "market": "港股",
-      "industry": "餐饮饮品",
-      "google": {
-        "growth_1m": 0.0,
-        "growth_3m": 6.7,
-        "recent_value": 16.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
-          "count": 1,
-          "titles": [
-            "雪王来了动画定档"
-          ]
-        }
-      },
-      "platform_count": 1,
-      "trends": {
-        "google_1m": 0.0,
-        "google_3m": 6.7,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 37,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 37,
-        "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 37,
-        "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 37,
-        "百度_7d": null,
-        "百度_30d": null,
-        "百度_days": 37
-      }
-    },
     {
       "name": "小米集团",
       "code": "1810",
@@ -90,19 +39,19 @@
         "google_3m": -20.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 37,
+        "抖音_days": 38,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 37,
+        "小红书_days": 38,
         "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 37,
+        "微博_30d": -100.0,
+        "微博_days": 38,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 37,
+        "知乎_days": 38,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 37
+        "百度_days": 38
       }
     },
     {
@@ -139,19 +88,68 @@
         "google_3m": -44.1,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 37,
+        "抖音_days": 38,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 37,
+        "小红书_days": 38,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 37,
+        "微博_days": 38,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 37,
+        "知乎_days": 38,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 37
+        "百度_days": 38
+      }
+    },
+    {
+      "name": "蜜雪集团",
+      "code": "2097",
+      "market": "港股",
+      "industry": "餐饮饮品",
+      "google": {
+        "growth_1m": 0.0,
+        "growth_3m": 6.7,
+        "recent_value": 16.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "百度热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
+        }
+      },
+      "platform_count": 0,
+      "trends": {
+        "google_1m": 0.0,
+        "google_3m": 6.7,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 38,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 38,
+        "微博_7d": null,
+        "微博_30d": null,
+        "微博_days": 38,
+        "知乎_7d": null,
+        "知乎_30d": null,
+        "知乎_days": 38,
+        "百度_7d": null,
+        "百度_30d": null,
+        "百度_days": 38
       }
     },
     {
@@ -188,19 +186,19 @@
         "google_3m": -12.5,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 37,
+        "抖音_days": 38,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 37,
+        "小红书_days": 38,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 37,
+        "微博_days": 38,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 37,
+        "知乎_days": 38,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 37
+        "百度_days": 38
       }
     },
     {
@@ -237,19 +235,19 @@
         "google_3m": -8.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 37,
+        "抖音_days": 38,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 37,
+        "小红书_days": 38,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 37,
+        "微博_days": 38,
         "知乎_7d": null,
-        "知乎_30d": -100.0,
-        "知乎_days": 37,
+        "知乎_30d": null,
+        "知乎_days": 38,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 37
+        "百度_days": 38
       }
     },
     {
@@ -286,19 +284,19 @@
         "google_3m": -14.9,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 37,
+        "抖音_days": 38,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 37,
-        "微博_7d": null,
+        "小红书_days": 38,
+        "微博_7d": -100.0,
         "微博_30d": null,
-        "微博_days": 37,
-        "知乎_7d": -100.0,
+        "微博_days": 38,
+        "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 37,
-        "百度_7d": -100.0,
+        "知乎_days": 38,
+        "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 37
+        "百度_days": 38
       }
     },
     {
@@ -335,19 +333,19 @@
         "google_3m": 8.4,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 37,
+        "抖音_days": 38,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 37,
+        "小红书_days": 38,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 37,
+        "微博_days": 38,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 37,
+        "知乎_days": 38,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 37
+        "百度_days": 38
       }
     },
     {
@@ -384,19 +382,19 @@
         "google_3m": -46.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 37,
+        "抖音_days": 38,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 37,
+        "小红书_days": 38,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 37,
+        "微博_days": 38,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 37,
+        "知乎_days": 38,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 37
+        "百度_days": 38
       }
     },
     {
@@ -433,19 +431,19 @@
         "google_3m": -16.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 37,
+        "抖音_days": 38,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 37,
+        "小红书_days": 38,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 37,
-        "知乎_7d": -100.0,
+        "微博_days": 38,
+        "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 37,
+        "知乎_days": 38,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 37
+        "百度_days": 38
       }
     },
     {
@@ -482,19 +480,19 @@
         "google_3m": 72.2,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 37,
+        "抖音_days": 38,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 37,
+        "小红书_days": 38,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 37,
+        "微博_days": 38,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 37,
+        "知乎_days": 38,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 37
+        "百度_days": 38
       }
     },
     {
@@ -531,19 +529,19 @@
         "google_3m": -12.2,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 37,
+        "抖音_days": 38,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 37,
+        "小红书_days": 38,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 37,
+        "微博_days": 38,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 37,
+        "知乎_days": 38,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 37
+        "百度_days": 38
       }
     },
     {
@@ -580,19 +578,19 @@
         "google_3m": 109.5,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 37,
+        "抖音_days": 38,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 37,
+        "小红书_days": 38,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 37,
+        "微博_days": 38,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 37,
+        "知乎_days": 38,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 37
+        "百度_days": 38
       }
     },
     {
@@ -629,19 +627,19 @@
         "google_3m": -23.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 37,
+        "抖音_days": 38,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 37,
+        "小红书_days": 38,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 37,
+        "微博_days": 38,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 37,
+        "知乎_days": 38,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 37
+        "百度_days": 38
       }
     },
     {
@@ -678,19 +676,19 @@
         "google_3m": -54.4,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 37,
+        "抖音_days": 38,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 37,
+        "小红书_days": 38,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 37,
+        "微博_days": 38,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 37,
+        "知乎_days": 38,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 37
+        "百度_days": 38
       }
     },
     {
@@ -727,19 +725,19 @@
         "google_3m": -10.0,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 37,
+        "抖音_days": 38,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 37,
+        "小红书_days": 38,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 37,
+        "微博_days": 38,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 37,
+        "知乎_days": 38,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 37
+        "百度_days": 38
       }
     }
   ],
@@ -747,48 +745,48 @@
     "抖音总榜": [
       {
         "rank": 1,
-        "title": "日本战败投降81周年"
+        "title": "中超成都蓉城3:2浙江队"
       },
       {
         "rank": 2,
-        "title": "周口贾鲁河溃口正开展封堵作业"
+        "title": "这世界大得让爱人很难不旅游"
       },
       {
         "rank": 3,
-        "title": "我国生态环境质量持续向好"
+        "title": "新一代通信网空天地海全覆盖"
       },
       {
         "rank": 4,
-        "title": "七夕约会怎么穿"
+        "title": "河南贾鲁河川汇区段溃口完成合龙"
       },
       {
         "rank": 5,
-        "title": "想和你一起去海边看晚霞"
+        "title": "中方回应高市向靖国神社供奉祭祀费"
       },
       {
         "rank": 6,
-        "title": "国防部：敦促日方认罪赎罪"
+        "title": "这个秋天我要做个帅女"
       },
       {
         "rank": 7,
-        "title": "中国公开赛周跃龙6:5吉尔伯特"
+        "title": "60岁AI动画赛道新人"
       },
       {
         "rank": 8,
-        "title": "你总认为旅行很贵"
+        "title": "苏超南京0:1扬州"
       },
       {
         "rank": 9,
-        "title": "躺在没有天花板的地方"
+        "title": "中国男篮热身赛72:91不敌乌拉圭"
       },
       {
         "rank": 10,
-        "title": "娃圈黑色穿搭大赏"
+        "title": "苏超南通1:0镇江"
       }
     ]
   },
   "meta": {
-    "data_time": "2026-08-15 08:37 CST",
+    "data_time": "2026-08-16 08:39 CST",
     "platforms": [
       "抖音总榜",
       "小红书热榜",
@@ -797,9 +795,9 @@
       "百度热搜"
     ],
     "history": {
-      "total_records": 4440,
-      "date_range": "2026-07-10 ~ 2026-08-15",
-      "days": 37,
+      "total_records": 4560,
+      "date_range": "2026-07-10 ~ 2026-08-16",
+      "days": 38,
       "companies": 15
     }
   }
