@@ -1,68 +1,72 @@
 {
-  "generated_at": "2026-08-21T08:39:49.954183+08:00",
+  "generated_at": "2026-08-22T08:37:19.724001+08:00",
   "system": "中国上市公司消费者行为雷达 v6.0",
   "brand_count": 15,
   "brands": [
     {
-      "name": "阿里巴巴",
-      "code": "9988",
+      "name": "腾讯控股",
+      "code": "0700",
       "market": "港股",
       "industry": "互联网",
       "google": {
-        "growth_1m": -12.0,
-        "growth_3m": -8.3,
-        "recent_value": 22.0
+        "growth_1m": -27.9,
+        "growth_3m": -14.9,
+        "recent_value": 57.0
       },
       "platforms": {
         "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
           "count": 1,
           "titles": [
-            "阿里巴巴2027财年财报公布"
+            "第一批用上微信按住转文字的人发声"
           ]
+        },
+        "百度热搜": {
+          "count": 1,
+          "titles": [
+            "微信新功能有点丑丑的"
+          ]
+        },
+        "知乎热榜": {
+          "count": 1,
+          "titles": [
+            "外卖小哥骑电动车撞持刀男子，王者荣耀全网寻人望颁发「国服孙策」奖状，如何看待这一系列暖心事迹？"
+          ]
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
         }
       },
-      "platform_count": 1,
+      "platform_count": 3,
       "trends": {
-        "google_1m": -12.0,
-        "google_3m": -8.3,
+        "google_1m": -27.9,
+        "google_3m": -14.9,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 43,
+        "抖音_days": 44,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 43,
+        "小红书_days": 44,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 43,
+        "微博_days": 44,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 43,
+        "知乎_days": 44,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 43
+        "百度_days": 44
       }
     },
     {
-      "name": "宁德时代",
-      "code": "300750",
-      "market": "A股",
-      "industry": "电池",
+      "name": "蜜雪集团",
+      "code": "2097",
+      "market": "港股",
+      "industry": "餐饮饮品",
       "google": {
-        "growth_1m": -60.9,
-        "growth_3m": -54.4,
-        "recent_value": 36.0
+        "growth_1m": 0.0,
+        "growth_3m": 6.7,
+        "recent_value": 16.0
       },
       "platforms": {
         "微博热搜": {
@@ -74,35 +78,35 @@
           "titles": []
         },
         "知乎热榜": {
-          "count": 1,
-          "titles": [
-            "要不要等固态电池再买电车？"
-          ]
-        },
-        "抖音总榜": {
           "count": 0,
           "titles": []
+        },
+        "抖音总榜": {
+          "count": 1,
+          "titles": [
+            "雪王来了动画开播"
+          ]
         }
       },
       "platform_count": 1,
       "trends": {
-        "google_1m": -60.9,
-        "google_3m": -54.4,
-        "抖音_7d": null,
+        "google_1m": 0.0,
+        "google_3m": 6.7,
+        "抖音_7d": 0.0,
         "抖音_30d": null,
-        "抖音_days": 43,
+        "抖音_days": 44,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 43,
+        "小红书_days": 44,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 43,
+        "微博_days": 44,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 43,
+        "知乎_days": 44,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 43
+        "百度_days": 44
       }
     },
     {
@@ -139,68 +143,19 @@
         "google_3m": -44.1,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 43,
+        "抖音_days": 44,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 43,
+        "小红书_days": 44,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 43,
+        "微博_days": 44,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 43,
+        "知乎_days": 44,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 43
-      }
-    },
-    {
-      "name": "蜜雪集团",
-      "code": "2097",
-      "market": "港股",
-      "industry": "餐饮饮品",
-      "google": {
-        "growth_1m": 0.0,
-        "growth_3m": 6.7,
-        "recent_value": 16.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
-          "count": 0,
-          "titles": []
-        }
-      },
-      "platform_count": 0,
-      "trends": {
-        "google_1m": 0.0,
-        "google_3m": 6.7,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 43,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 43,
-        "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 43,
-        "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 43,
-        "百度_7d": null,
-        "百度_30d": null,
-        "百度_days": 43
+        "百度_days": 44
       }
     },
     {
@@ -235,21 +190,21 @@
       "trends": {
         "google_1m": -25.0,
         "google_3m": -20.3,
-        "抖音_7d": null,
+        "抖音_7d": -100.0,
         "抖音_30d": null,
-        "抖音_days": 43,
+        "抖音_days": 44,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 43,
+        "小红书_days": 44,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 43,
+        "微博_days": 44,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 43,
+        "知乎_days": 44,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 43
+        "百度_days": 44
       }
     },
     {
@@ -286,30 +241,30 @@
         "google_3m": -12.5,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 43,
+        "抖音_days": 44,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 43,
+        "小红书_days": 44,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 43,
+        "微博_days": 44,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 43,
+        "知乎_days": 44,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 43
+        "百度_days": 44
       }
     },
     {
-      "name": "腾讯控股",
-      "code": "0700",
+      "name": "阿里巴巴",
+      "code": "9988",
       "market": "港股",
       "industry": "互联网",
       "google": {
-        "growth_1m": -27.9,
-        "growth_3m": -14.9,
-        "recent_value": 57.0
+        "growth_1m": -12.0,
+        "growth_3m": -8.3,
+        "recent_value": 22.0
       },
       "platforms": {
         "微博热搜": {
@@ -331,23 +286,23 @@
       },
       "platform_count": 0,
       "trends": {
-        "google_1m": -27.9,
-        "google_3m": -14.9,
+        "google_1m": -12.0,
+        "google_3m": -8.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 43,
+        "抖音_days": 44,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 43,
+        "小红书_days": 44,
         "微博_7d": null,
-        "微博_30d": -100.0,
-        "微博_days": 43,
-        "知乎_7d": -100.0,
+        "微博_30d": null,
+        "微博_days": 44,
+        "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 43,
+        "知乎_days": 44,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 43
+        "百度_days": 44
       }
     },
     {
@@ -384,19 +339,19 @@
         "google_3m": 8.4,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 43,
+        "抖音_days": 44,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 43,
+        "小红书_days": 44,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 43,
+        "微博_days": 44,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 43,
+        "知乎_days": 44,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 43
+        "百度_days": 44
       }
     },
     {
@@ -433,19 +388,19 @@
         "google_3m": -46.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 43,
+        "抖音_days": 44,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 43,
+        "小红书_days": 44,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 43,
+        "微博_days": 44,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 43,
+        "知乎_days": 44,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 43
+        "百度_days": 44
       }
     },
     {
@@ -482,19 +437,19 @@
         "google_3m": -16.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 43,
+        "抖音_days": 44,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 43,
+        "小红书_days": 44,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 43,
+        "微博_days": 44,
         "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 43,
+        "知乎_30d": -100.0,
+        "知乎_days": 44,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 43
+        "百度_days": 44
       }
     },
     {
@@ -531,19 +486,19 @@
         "google_3m": 72.2,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 43,
+        "抖音_days": 44,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 43,
+        "小红书_days": 44,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 43,
+        "微博_days": 44,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 43,
+        "知乎_days": 44,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 43
+        "百度_days": 44
       }
     },
     {
@@ -580,19 +535,19 @@
         "google_3m": -12.2,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 43,
+        "抖音_days": 44,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 43,
+        "小红书_days": 44,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 43,
+        "微博_days": 44,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 43,
+        "知乎_days": 44,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 43
+        "百度_days": 44
       }
     },
     {
@@ -629,19 +584,19 @@
         "google_3m": 109.5,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 43,
+        "抖音_days": 44,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 43,
+        "小红书_days": 44,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 43,
+        "微博_days": 44,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 43,
+        "知乎_days": 44,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 43
+        "百度_days": 44
       }
     },
     {
@@ -678,19 +633,68 @@
         "google_3m": -23.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 43,
+        "抖音_days": 44,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 43,
+        "小红书_days": 44,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 43,
+        "微博_days": 44,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 43,
+        "知乎_days": 44,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 43
+        "百度_days": 44
+      }
+    },
+    {
+      "name": "宁德时代",
+      "code": "300750",
+      "market": "A股",
+      "industry": "电池",
+      "google": {
+        "growth_1m": -60.9,
+        "growth_3m": -54.4,
+        "recent_value": 36.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "百度热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
+        }
+      },
+      "platform_count": 0,
+      "trends": {
+        "google_1m": -60.9,
+        "google_3m": -54.4,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 44,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 44,
+        "微博_7d": null,
+        "微博_30d": null,
+        "微博_days": 44,
+        "知乎_7d": null,
+        "知乎_30d": null,
+        "知乎_days": 44,
+        "百度_7d": null,
+        "百度_30d": -100.0,
+        "百度_days": 44
       }
     },
     {
@@ -727,19 +731,19 @@
         "google_3m": -10.0,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 43,
+        "抖音_days": 44,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 43,
+        "小红书_days": 44,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 43,
+        "微博_days": 44,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 43,
+        "知乎_days": 44,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 43
+        "百度_days": 44
       }
     }
   ],
@@ -747,48 +751,48 @@
     "抖音总榜": [
       {
         "rank": 1,
-        "title": "美这件事我只取悦自己"
+        "title": "运油20A歼16等已全部抵达埃及"
       },
       {
         "rank": 2,
-        "title": "俄军大规模导弹夜袭基辅"
+        "title": "认识一座城从老字号招牌开始"
       },
       {
         "rank": 3,
-        "title": "我国服务业持续扩能提质"
+        "title": "一组数据看数智赋能电商经济"
       },
       {
         "rank": 4,
-        "title": "AI补全了我对长辈的所有未知"
+        "title": "总有人在付出为什么不能是我呢"
       },
       {
         "rank": 5,
-        "title": "深度解析黑神话钟馗实机演示"
+        "title": "中国U18男篮亚洲杯挺进半决赛"
       },
       {
         "rank": 6,
-        "title": "追梦这件事只要开始就不晚"
+        "title": "国际金价重回4600美元"
       },
       {
         "rank": 7,
-        "title": "娃圈总动员全体开动"
+        "title": "2026成都车展正式开幕"
       },
       {
         "rank": 8,
-        "title": "BLG战胜LGD"
+        "title": "相声名家田立禾去世"
       },
       {
         "rank": 9,
-        "title": "阿里巴巴2027财年财报公布"
+        "title": "手指的方向是自由"
       },
       {
         "rank": 10,
-        "title": "广东男篮新任主教练曝光"
+        "title": "真正的少女心事是环游世界"
       }
     ]
   },
   "meta": {
-    "data_time": "2026-08-21 08:39 CST",
+    "data_time": "2026-08-22 08:37 CST",
     "platforms": [
       "抖音总榜",
       "小红书热榜",
@@ -797,9 +801,9 @@
       "百度热搜"
     ],
     "history": {
-      "total_records": 5160,
-      "date_range": "2026-07-10 ~ 2026-08-21",
-      "days": 43,
+      "total_records": 5280,
+      "date_range": "2026-07-10 ~ 2026-08-22",
+      "days": 44,
       "companies": 15
     }
   }
