@@ -1,8 +1,59 @@
 {
-  "generated_at": "2026-08-26T08:39:33.531273+08:00",
+  "generated_at": "2026-08-27T13:41:15.428293+08:00",
   "system": "中国上市公司消费者行为雷达 v6.0",
   "brand_count": 15,
   "brands": [
+    {
+      "name": "蜜雪集团",
+      "code": "2097",
+      "market": "港股",
+      "industry": "餐饮饮品",
+      "google": {
+        "growth_1m": 0.0,
+        "growth_3m": 6.7,
+        "recent_value": 16.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "百度热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
+        },
+        "抖音总榜": {
+          "count": 1,
+          "titles": [
+            "雪王在六公主面前秒变灵珠"
+          ]
+        }
+      },
+      "platform_count": 1,
+      "trends": {
+        "google_1m": 0.0,
+        "google_3m": 6.7,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 49,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 49,
+        "微博_7d": null,
+        "微博_30d": null,
+        "微博_days": 49,
+        "知乎_7d": null,
+        "知乎_30d": null,
+        "知乎_days": 49,
+        "百度_7d": null,
+        "百度_30d": null,
+        "百度_days": 49
+      }
+    },
     {
       "name": "小米集团",
       "code": "1810",
@@ -23,16 +74,14 @@
           "titles": []
         },
         "知乎热榜": {
-          "count": 0,
-          "titles": []
+          "count": 1,
+          "titles": [
+            "小米发布国内首款 3nm 智驾芯片「玄戒 D100」，这款芯片在当前市场格局下突围的机会与难点是什么"
+          ]
         },
         "抖音总榜": {
-          "count": 3,
-          "titles": [
-            "小米展示玄戒O100原型机",
-            "小米玄戒O3芯片藏着特别彩蛋",
-            "小米玄戒O3芯片解析"
-          ]
+          "count": 0,
+          "titles": []
         }
       },
       "platform_count": 1,
@@ -41,45 +90,45 @@
         "google_3m": -20.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 48,
+        "抖音_days": 49,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 48,
-        "微博_7d": null,
-        "微博_30d": -100.0,
-        "微博_days": 48,
-        "知乎_7d": -100.0,
+        "小红书_days": 49,
+        "微博_7d": -100.0,
+        "微博_30d": null,
+        "微博_days": 49,
+        "知乎_7d": 0.0,
         "知乎_30d": null,
-        "知乎_days": 48,
+        "知乎_days": 49,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 48
+        "百度_days": 49
       }
     },
     {
-      "name": "东方甄选",
-      "code": "1797",
+      "name": "腾讯控股",
+      "code": "0700",
       "market": "港股",
-      "industry": "直播电商",
+      "industry": "互联网",
       "google": {
-        "growth_1m": -56.2,
-        "growth_3m": -12.5,
-        "recent_value": 7.0
+        "growth_1m": -27.9,
+        "growth_3m": -14.9,
+        "recent_value": 57.0
       },
       "platforms": {
         "微博热搜": {
-          "count": 0,
-          "titles": []
+          "count": 1,
+          "titles": [
+            "周觅SM腾讯合资公司CEO"
+          ]
         },
         "百度热搜": {
           "count": 0,
           "titles": []
         },
         "知乎热榜": {
-          "count": 1,
-          "titles": [
-            "董宇辉等主播走后，东方甄选少发 4 亿薪酬，新财年净赚超 5 亿元，怎样解读这一变化？东方甄选转型算"
-          ]
+          "count": 0,
+          "titles": []
         },
         "抖音总榜": {
           "count": 0,
@@ -88,74 +137,23 @@
       },
       "platform_count": 1,
       "trends": {
-        "google_1m": -56.2,
-        "google_3m": -12.5,
+        "google_1m": -27.9,
+        "google_3m": -14.9,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 48,
+        "抖音_days": 49,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 48,
+        "小红书_days": 49,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 48,
+        "微博_days": 49,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 48,
+        "知乎_days": 49,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 48
-      }
-    },
-    {
-      "name": "宁德时代",
-      "code": "300750",
-      "market": "A股",
-      "industry": "电池",
-      "google": {
-        "growth_1m": -60.9,
-        "growth_3m": -54.4,
-        "recent_value": 36.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
-          "count": 1,
-          "titles": [
-            "越来越宽的新能源车被停车难劝退，我们是否需要一批车宽 1.7 米级的家用电车？"
-          ]
-        },
-        "抖音总榜": {
-          "count": 0,
-          "titles": []
-        }
-      },
-      "platform_count": 1,
-      "trends": {
-        "google_1m": -60.9,
-        "google_3m": -54.4,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 48,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 48,
-        "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 48,
-        "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 48,
-        "百度_7d": -100.0,
-        "百度_30d": null,
-        "百度_days": 48
+        "百度_days": 49
       }
     },
     {
@@ -192,30 +190,30 @@
         "google_3m": -44.1,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 48,
+        "抖音_days": 49,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 48,
+        "小红书_days": 49,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 48,
+        "微博_days": 49,
         "知乎_7d": null,
-        "知乎_30d": -100.0,
-        "知乎_days": 48,
+        "知乎_30d": null,
+        "知乎_days": 49,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 48
+        "百度_days": 49
       }
     },
     {
-      "name": "蜜雪集团",
-      "code": "2097",
+      "name": "东方甄选",
+      "code": "1797",
       "market": "港股",
-      "industry": "餐饮饮品",
+      "industry": "直播电商",
       "google": {
-        "growth_1m": 0.0,
-        "growth_3m": 6.7,
-        "recent_value": 16.0
+        "growth_1m": -56.2,
+        "growth_3m": -12.5,
+        "recent_value": 7.0
       },
       "platforms": {
         "微博热搜": {
@@ -237,23 +235,23 @@
       },
       "platform_count": 0,
       "trends": {
-        "google_1m": 0.0,
-        "google_3m": 6.7,
+        "google_1m": -56.2,
+        "google_3m": -12.5,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 48,
+        "抖音_days": 49,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 48,
+        "小红书_days": 49,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 48,
+        "微博_days": 49,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 48,
+        "知乎_days": 49,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 48
+        "百度_days": 49
       }
     },
     {
@@ -290,68 +288,19 @@
         "google_3m": -8.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 48,
+        "抖音_days": 49,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 48,
+        "小红书_days": 49,
         "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 48,
+        "微博_30d": -100.0,
+        "微博_days": 49,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 48,
+        "知乎_days": 49,
         "百度_7d": null,
-        "百度_30d": null,
-        "百度_days": 48
-      }
-    },
-    {
-      "name": "腾讯控股",
-      "code": "0700",
-      "market": "港股",
-      "industry": "互联网",
-      "google": {
-        "growth_1m": -27.9,
-        "growth_3m": -14.9,
-        "recent_value": 57.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
-          "count": 0,
-          "titles": []
-        }
-      },
-      "platform_count": 0,
-      "trends": {
-        "google_1m": -27.9,
-        "google_3m": -14.9,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 48,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 48,
-        "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 48,
-        "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 48,
-        "百度_7d": -100.0,
         "百度_30d": -100.0,
-        "百度_days": 48
+        "百度_days": 49
       }
     },
     {
@@ -388,19 +337,19 @@
         "google_3m": 8.4,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 48,
+        "抖音_days": 49,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 48,
+        "小红书_days": 49,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 48,
+        "微博_days": 49,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 48,
+        "知乎_days": 49,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 48
+        "百度_days": 49
       }
     },
     {
@@ -437,19 +386,19 @@
         "google_3m": -46.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 48,
+        "抖音_days": 49,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 48,
+        "小红书_days": 49,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 48,
-        "知乎_7d": null,
+        "微博_days": 49,
+        "知乎_7d": -100.0,
         "知乎_30d": null,
-        "知乎_days": 48,
+        "知乎_days": 49,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 48
+        "百度_days": 49
       }
     },
     {
@@ -486,19 +435,19 @@
         "google_3m": -16.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 48,
+        "抖音_days": 49,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 48,
+        "小红书_days": 49,
         "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 48,
+        "微博_30d": -100.0,
+        "微博_days": 49,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 48,
+        "知乎_days": 49,
         "百度_7d": null,
-        "百度_30d": null,
-        "百度_days": 48
+        "百度_30d": -100.0,
+        "百度_days": 49
       }
     },
     {
@@ -535,19 +484,19 @@
         "google_3m": 72.2,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 48,
+        "抖音_days": 49,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 48,
+        "小红书_days": 49,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 48,
+        "微博_days": 49,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 48,
+        "知乎_days": 49,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 48
+        "百度_days": 49
       }
     },
     {
@@ -584,19 +533,19 @@
         "google_3m": -12.2,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 48,
+        "抖音_days": 49,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 48,
+        "小红书_days": 49,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 48,
+        "微博_days": 49,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 48,
+        "知乎_days": 49,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 48
+        "百度_days": 49
       }
     },
     {
@@ -633,19 +582,19 @@
         "google_3m": 109.5,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 48,
+        "抖音_days": 49,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 48,
+        "小红书_days": 49,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 48,
+        "微博_days": 49,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 48,
+        "知乎_days": 49,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 48
+        "百度_days": 49
       }
     },
     {
@@ -682,19 +631,68 @@
         "google_3m": -23.3,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 48,
+        "抖音_days": 49,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 48,
+        "小红书_days": 49,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 48,
+        "微博_days": 49,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 48,
+        "知乎_days": 49,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 48
+        "百度_days": 49
+      }
+    },
+    {
+      "name": "宁德时代",
+      "code": "300750",
+      "market": "A股",
+      "industry": "电池",
+      "google": {
+        "growth_1m": -60.9,
+        "growth_3m": -54.4,
+        "recent_value": 36.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "百度热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
+        }
+      },
+      "platform_count": 0,
+      "trends": {
+        "google_1m": -60.9,
+        "google_3m": -54.4,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 49,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 49,
+        "微博_7d": null,
+        "微博_30d": null,
+        "微博_days": 49,
+        "知乎_7d": -100.0,
+        "知乎_30d": null,
+        "知乎_days": 49,
+        "百度_7d": null,
+        "百度_30d": null,
+        "百度_days": 49
       }
     },
     {
@@ -731,19 +729,19 @@
         "google_3m": -10.0,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 48,
+        "抖音_days": 49,
         "小红书_7d": null,
         "小红书_30d": null,
-        "小红书_days": 48,
+        "小红书_days": 49,
         "微博_7d": null,
         "微博_30d": null,
-        "微博_days": 48,
+        "微博_days": 49,
         "知乎_7d": null,
         "知乎_30d": null,
-        "知乎_days": 48,
+        "知乎_days": 49,
         "百度_7d": null,
         "百度_30d": null,
-        "百度_days": 48
+        "百度_days": 49
       }
     }
   ],
@@ -751,48 +749,48 @@
     "抖音总榜": [
       {
         "rank": 1,
-        "title": "用一顿夜宵抓住暑假的尾巴"
+        "title": "西藏泥石流558人失联3人遇难"
       },
       {
         "rank": 2,
-        "title": "晒出我的军训实况"
+        "title": "台风沙德尔实时路径"
       },
       {
         "rank": 3,
-        "title": "农田智能作业机器人上线"
+        "title": "多方力量驰援西藏"
       },
       {
         "rank": 4,
-        "title": "玄戒O100原型机现场体验"
+        "title": "西藏泥石流救援现场"
       },
       {
         "rank": 5,
-        "title": "解放军试射“黑色”导弹"
+        "title": "这就是广东人说的鱼有鱼味"
       },
       {
         "rank": 6,
-        "title": "中使馆：在泰遭绑女子已妥善安置"
+        "title": "“扶老人被索赔1.9万”店主收到退款"
       },
       {
         "rank": 7,
-        "title": "官方：征集火箭军违规采购线索"
+        "title": "俄罗斯火灾致中国公民6死9失联"
       },
       {
         "rank": 8,
-        "title": "电动自行车限速拟上调"
+        "title": "黄金价格持续上涨"
       },
       {
         "rank": 9,
-        "title": "世界最大直径水下盾构隧道通车"
+        "title": "专家解读浙江或将迎台风三连击"
       },
       {
         "rank": 10,
-        "title": "美海军亮出最远导弹"
+        "title": "第一堂审美课是国产动画教的"
       }
     ]
   },
   "meta": {
-    "data_time": "2026-08-26 08:39 CST",
+    "data_time": "2026-08-27 13:41 CST",
     "platforms": [
       "抖音总榜",
       "小红书热榜",
@@ -801,9 +799,9 @@
       "百度热搜"
     ],
     "history": {
-      "total_records": 5760,
-      "date_range": "2026-07-10 ~ 2026-08-26",
-      "days": 48,
+      "total_records": 5880,
+      "date_range": "2026-07-10 ~ 2026-08-27",
+      "days": 49,
       "companies": 15
     }
   }
