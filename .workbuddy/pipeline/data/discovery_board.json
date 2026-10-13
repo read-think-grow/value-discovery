@@ -1,17 +1,119 @@
 {
-  "generated_at": "2026-10-12T11:12:57.937434+08:00",
+  "generated_at": "2026-10-13T12:28:36.522632+08:00",
   "system": "中国上市公司消费者行为雷达 v6.0",
   "brand_count": 15,
   "brands": [
     {
-      "name": "腾讯控股",
-      "code": "0700",
+      "name": "小米集团",
+      "code": "1810",
       "market": "港股",
-      "industry": "互联网",
+      "industry": "消费电子",
       "google": {
-        "growth_1m": -27.9,
-        "growth_3m": -14.9,
-        "recent_value": 57.0
+        "growth_1m": -25.0,
+        "growth_3m": -20.3,
+        "recent_value": 51.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "百度热搜": {
+          "count": 1,
+          "titles": [
+            "《武林外传》“小米”和“钱掌柜”同框"
+          ]
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
+        }
+      },
+      "platform_count": 1,
+      "trends": {
+        "google_1m": -25.0,
+        "google_3m": -20.3,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 92,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 92,
+        "微博_7d": null,
+        "微博_30d": null,
+        "微博_days": 92,
+        "知乎_7d": null,
+        "知乎_30d": null,
+        "知乎_days": 92,
+        "百度_7d": null,
+        "百度_30d": 0.0,
+        "百度_days": 92
+      }
+    },
+    {
+      "name": "小鹏汽车",
+      "code": "9868",
+      "market": "港股",
+      "industry": "新能源车",
+      "google": {
+        "growth_1m": -2.2,
+        "growth_3m": 8.4,
+        "recent_value": 90.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 1,
+          "titles": [
+            "何小鹏称年轻人应该有自己的大五座"
+          ]
+        },
+        "百度热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
+        }
+      },
+      "platform_count": 1,
+      "trends": {
+        "google_1m": -2.2,
+        "google_3m": 8.4,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 92,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 92,
+        "微博_7d": null,
+        "微博_30d": null,
+        "微博_days": 92,
+        "知乎_7d": null,
+        "知乎_30d": null,
+        "知乎_days": 92,
+        "百度_7d": null,
+        "百度_30d": null,
+        "百度_days": 92
+      }
+    },
+    {
+      "name": "宁德时代",
+      "code": "300750",
+      "market": "A股",
+      "industry": "电池",
+      "google": {
+        "growth_1m": -60.9,
+        "growth_3m": -54.4,
+        "recent_value": 36.0
       },
       "platforms": {
         "微博热搜": {
@@ -23,20 +125,20 @@
           "titles": []
         },
         "知乎热榜": {
-          "count": 1,
-          "titles": [
-            "如何看待腾讯 QClaw 停运后，网易 LobsterAI 发信称「不会将用户体验与数据当作内部赛马"
-          ]
-        },
-        "抖音总榜": {
           "count": 0,
           "titles": []
+        },
+        "抖音总榜": {
+          "count": 1,
+          "titles": [
+            "福建宁德清水鲈鱼名不虚传"
+          ]
         }
       },
       "platform_count": 1,
       "trends": {
-        "google_1m": -27.9,
-        "google_3m": -14.9,
+        "google_1m": -60.9,
+        "google_3m": -54.4,
         "抖音_7d": null,
         "抖音_30d": null,
         "抖音_days": 92,
@@ -153,55 +255,6 @@
       }
     },
     {
-      "name": "小米集团",
-      "code": "1810",
-      "market": "港股",
-      "industry": "消费电子",
-      "google": {
-        "growth_1m": -25.0,
-        "growth_3m": -20.3,
-        "recent_value": 51.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
-          "count": 0,
-          "titles": []
-        }
-      },
-      "platform_count": 0,
-      "trends": {
-        "google_1m": -25.0,
-        "google_3m": -20.3,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 92,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 92,
-        "微博_7d": null,
-        "微博_30d": -100.0,
-        "微博_days": 92,
-        "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 92,
-        "百度_7d": null,
-        "百度_30d": null,
-        "百度_days": 92
-      }
-    },
-    {
       "name": "东方甄选",
       "code": "1797",
       "market": "港股",
@@ -292,7 +345,7 @@
         "微博_30d": null,
         "微博_days": 92,
         "知乎_7d": null,
-        "知乎_30d": -100.0,
+        "知乎_30d": null,
         "知乎_days": 92,
         "百度_7d": null,
         "百度_30d": null,
@@ -300,14 +353,14 @@
       }
     },
     {
-      "name": "小鹏汽车",
-      "code": "9868",
+      "name": "腾讯控股",
+      "code": "0700",
       "market": "港股",
-      "industry": "新能源车",
+      "industry": "互联网",
       "google": {
-        "growth_1m": -2.2,
-        "growth_3m": 8.4,
-        "recent_value": 90.0
+        "growth_1m": -27.9,
+        "growth_3m": -14.9,
+        "recent_value": 57.0
       },
       "platforms": {
         "微博热搜": {
@@ -329,8 +382,8 @@
       },
       "platform_count": 0,
       "trends": {
-        "google_1m": -2.2,
-        "google_3m": 8.4,
+        "google_1m": -27.9,
+        "google_3m": -14.9,
         "抖音_7d": null,
         "抖音_30d": null,
         "抖音_days": 92,
@@ -340,11 +393,11 @@
         "微博_7d": null,
         "微博_30d": null,
         "微博_days": 92,
-        "知乎_7d": null,
+        "知乎_7d": -100.0,
         "知乎_30d": null,
         "知乎_days": 92,
         "百度_7d": null,
-        "百度_30d": null,
+        "百度_30d": -100.0,
         "百度_days": 92
       }
     },
@@ -643,55 +696,6 @@
       }
     },
     {
-      "name": "宁德时代",
-      "code": "300750",
-      "market": "A股",
-      "industry": "电池",
-      "google": {
-        "growth_1m": -60.9,
-        "growth_3m": -54.4,
-        "recent_value": 36.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
-          "count": 0,
-          "titles": []
-        }
-      },
-      "platform_count": 0,
-      "trends": {
-        "google_1m": -60.9,
-        "google_3m": -54.4,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 92,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 92,
-        "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 92,
-        "知乎_7d": -100.0,
-        "知乎_30d": null,
-        "知乎_days": 92,
-        "百度_7d": -100.0,
-        "百度_30d": null,
-        "百度_days": 92
-      }
-    },
-    {
       "name": "智谱",
       "code": "—",
       "market": "未上市",
@@ -745,48 +749,48 @@
     "抖音总榜": [
       {
         "rank": 1,
-        "title": "郑钦文首夺中网女单冠军"
+        "title": "年轻人办婚礼有自己的想法"
       },
       {
         "rank": 2,
-        "title": "秋天的桂花香太治愈了"
+        "title": "武网施晗爆冷淘汰伊埃拉"
       },
       {
         "rank": 3,
-        "title": "我国物流业景气水平进一步提升"
+        "title": "我国加速推进国家水网建设"
       },
       {
         "rank": 4,
-        "title": "升级后的皇岗口岸正式开通"
+        "title": "杨瀚森13分4板4助攻"
       },
       {
         "rank": 5,
-        "title": "蒙古国草原火逼近内蒙古边境"
+        "title": "几度秋意浓最是桂花香"
       },
       {
         "rank": 6,
-        "title": "季前赛哈登首秀砍下24分"
+        "title": "是秋天的魔法帽呀"
       },
       {
         "rank": 7,
-        "title": "德比斯分享首次中国行记录"
+        "title": "所有人展示十月美甲"
       },
       {
         "rank": 8,
-        "title": "我的假日慢充宝藏城市"
+        "title": "你不要那样看着我的眼睛"
       },
       {
         "rank": 9,
-        "title": "郑钦文夺冠后唱梦的光点"
+        "title": "完美穿搭不浪费"
       },
       {
         "rank": 10,
-        "title": "幸好这个世界足够辽阔"
+        "title": "银杏古刹是秋天写给人间的诗"
       }
     ]
   },
   "meta": {
-    "data_time": "2026-10-12 11:12 CST",
+    "data_time": "2026-10-13 12:28 CST",
     "platforms": [
       "抖音总榜",
       "小红书热榜",
@@ -796,7 +800,7 @@
     ],
     "history": {
       "total_records": 10920,
-      "date_range": "2026-07-14 ~ 2026-10-12",
+      "date_range": "2026-07-15 ~ 2026-10-13",
       "days": 91,
       "companies": 15
     }
