@@ -1,61 +1,8 @@
 {
-  "generated_at": "2026-10-16T10:10:36.807069+08:00",
+  "generated_at": "2026-10-17T10:03:48.271680+08:00",
   "system": "中国上市公司消费者行为雷达 v6.0",
   "brand_count": 15,
   "brands": [
-    {
-      "name": "宁德时代",
-      "code": "300750",
-      "market": "A股",
-      "industry": "电池",
-      "google": {
-        "growth_1m": -60.9,
-        "growth_3m": -54.4,
-        "recent_value": 36.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 1,
-          "titles": [
-            "比亚迪电车入编公务车"
-          ]
-        },
-        "百度热搜": {
-          "count": 1,
-          "titles": [
-            "车行老板：油车比新能源车更保值"
-          ]
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
-          "count": 0,
-          "titles": []
-        }
-      },
-      "platform_count": 2,
-      "trends": {
-        "google_1m": -60.9,
-        "google_3m": -54.4,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 92,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 92,
-        "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 92,
-        "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 92,
-        "百度_7d": null,
-        "百度_30d": null,
-        "百度_days": 92
-      }
-    },
     {
       "name": "腾讯控股",
       "code": "0700",
@@ -70,7 +17,7 @@
         "微博热搜": {
           "count": 1,
           "titles": [
-            "快递员微信搭讪女业主被小区禁入"
+            "张继科疑似被刘丁硕删了微信"
           ]
         },
         "百度热搜": {
@@ -78,15 +25,17 @@
           "titles": []
         },
         "知乎热榜": {
-          "count": 0,
-          "titles": []
+          "count": 1,
+          "titles": [
+            "如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？"
+          ]
         },
         "抖音总榜": {
           "count": 0,
           "titles": []
         }
       },
-      "platform_count": 1,
+      "platform_count": 2,
       "trends": {
         "google_1m": -27.9,
         "google_3m": -14.9,
@@ -96,13 +45,13 @@
         "小红书_7d": null,
         "小红书_30d": null,
         "小红书_days": 92,
-        "微博_7d": 0.0,
-        "微博_30d": null,
+        "微博_7d": null,
+        "微博_30d": 0.0,
         "微博_days": 92,
         "知乎_7d": null,
         "知乎_30d": null,
         "知乎_days": 92,
-        "百度_7d": -100.0,
+        "百度_7d": null,
         "百度_30d": null,
         "百度_days": 92
       }
@@ -341,7 +290,7 @@
         "小红书_7d": null,
         "小红书_30d": null,
         "小红书_days": 92,
-        "微博_7d": -100.0,
+        "微博_7d": null,
         "微博_30d": null,
         "微博_days": 92,
         "知乎_7d": null,
@@ -696,6 +645,55 @@
       }
     },
     {
+      "name": "宁德时代",
+      "code": "300750",
+      "market": "A股",
+      "industry": "电池",
+      "google": {
+        "growth_1m": -60.9,
+        "growth_3m": -54.4,
+        "recent_value": 36.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "百度热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
+        }
+      },
+      "platform_count": 0,
+      "trends": {
+        "google_1m": -60.9,
+        "google_3m": -54.4,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 92,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 92,
+        "微博_7d": null,
+        "微博_30d": null,
+        "微博_days": 92,
+        "知乎_7d": -100.0,
+        "知乎_30d": null,
+        "知乎_days": 92,
+        "百度_7d": null,
+        "百度_30d": -100.0,
+        "百度_days": 92
+      }
+    },
+    {
       "name": "智谱",
       "code": "—",
       "market": "未上市",
@@ -749,48 +747,48 @@
     "抖音总榜": [
       {
         "rank": 1,
-        "title": "抖音商城双11超级补贴来啦"
+        "title": "河北省第十七届运动会开幕"
       },
       {
         "rank": 2,
-        "title": "当我拥有自己的ai播放器"
+        "title": "喀纳斯秋日实况"
       },
       {
         "rank": 3,
-        "title": "第140届广交会开展"
+        "title": "胜利山上望征途"
       },
       {
         "rank": 4,
-        "title": "淡人早秋穿搭"
+        "title": "古早感美式复古秋冬穿搭"
       },
       {
         "rank": 5,
-        "title": "全国赏秋进度条"
+        "title": "一块会飞上天的滑板简直太酷了"
       },
       {
         "rank": 6,
-        "title": "全三角洲都在老太巡猎"
+        "title": "今年第30号台风蔷琵已生成"
       },
       {
         "rank": 7,
-        "title": "这一步闪进景区宣传片了"
+        "title": "秋季6种色彩穿搭公式"
       },
       {
         "rank": 8,
-        "title": "乌鲁木齐迎来初雪"
+        "title": "美军六代机F47首飞锁定2028年"
       },
       {
         "rank": 9,
-        "title": "也门总统府遭5枚导弹袭击"
+        "title": "CBA新赛季揭幕战上海大胜深圳"
       },
       {
         "rank": 10,
-        "title": "DeepSeek发布补偿方案"
+        "title": "津门虎提前两轮保级成功"
       }
     ]
   },
   "meta": {
-    "data_time": "2026-10-16 10:10 CST",
+    "data_time": "2026-10-17 10:03 CST",
     "platforms": [
       "抖音总榜",
       "小红书热榜",
@@ -800,7 +798,7 @@
     ],
     "history": {
       "total_records": 10920,
-      "date_range": "2026-07-18 ~ 2026-10-16",
+      "date_range": "2026-07-19 ~ 2026-10-17",
       "days": 91,
       "companies": 15
     }
