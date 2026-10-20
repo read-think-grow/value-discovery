@@ -1,24 +1,22 @@
 {
-  "generated_at": "2026-10-19T10:20:24.738531+08:00",
+  "generated_at": "2026-10-20T10:34:02.957468+08:00",
   "system": "中国上市公司消费者行为雷达 v6.0",
   "brand_count": 15,
   "brands": [
     {
-      "name": "小米集团",
-      "code": "1810",
+      "name": "阿里巴巴",
+      "code": "9988",
       "market": "港股",
-      "industry": "消费电子",
+      "industry": "互联网",
       "google": {
-        "growth_1m": -25.0,
-        "growth_3m": -20.3,
-        "recent_value": 51.0
+        "growth_1m": -12.0,
+        "growth_3m": -8.3,
+        "recent_value": 22.0
       },
       "platforms": {
         "微博热搜": {
-          "count": 1,
-          "titles": [
-            "小米SU9LUX商标公告"
-          ]
+          "count": 0,
+          "titles": []
         },
         "百度热搜": {
           "count": 0,
@@ -29,14 +27,16 @@
           "titles": []
         },
         "抖音总榜": {
-          "count": 0,
-          "titles": []
+          "count": 1,
+          "titles": [
+            "杨颖也来跳喵阿里嘎多"
+          ]
         }
       },
       "platform_count": 1,
       "trends": {
-        "google_1m": -25.0,
-        "google_3m": -20.3,
+        "google_1m": -12.0,
+        "google_3m": -8.3,
         "抖音_7d": null,
         "抖音_30d": null,
         "抖音_days": 92,
@@ -47,57 +47,6 @@
         "微博_30d": null,
         "微博_days": 92,
         "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 92,
-        "百度_7d": null,
-        "百度_30d": null,
-        "百度_days": 92
-      }
-    },
-    {
-      "name": "腾讯控股",
-      "code": "0700",
-      "market": "港股",
-      "industry": "互联网",
-      "google": {
-        "growth_1m": -27.9,
-        "growth_3m": -14.9,
-        "recent_value": 57.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 1,
-          "titles": [
-            "披旭日旗留学生微信签名涉军国主义"
-          ]
-        },
-        "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
-          "count": 0,
-          "titles": []
-        }
-      },
-      "platform_count": 1,
-      "trends": {
-        "google_1m": -27.9,
-        "google_3m": -14.9,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 92,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 92,
-        "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 92,
-        "知乎_7d": -100.0,
         "知乎_30d": null,
         "知乎_days": 92,
         "百度_7d": null,
@@ -204,6 +153,55 @@
       }
     },
     {
+      "name": "小米集团",
+      "code": "1810",
+      "market": "港股",
+      "industry": "消费电子",
+      "google": {
+        "growth_1m": -25.0,
+        "growth_3m": -20.3,
+        "recent_value": 51.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "百度热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
+        }
+      },
+      "platform_count": 0,
+      "trends": {
+        "google_1m": -25.0,
+        "google_3m": -20.3,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 92,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 92,
+        "微博_7d": null,
+        "微博_30d": -100.0,
+        "微博_days": 92,
+        "知乎_7d": null,
+        "知乎_30d": null,
+        "知乎_days": 92,
+        "百度_7d": -100.0,
+        "百度_30d": null,
+        "百度_days": 92
+      }
+    },
+    {
       "name": "东方甄选",
       "code": "1797",
       "market": "港股",
@@ -253,14 +251,14 @@
       }
     },
     {
-      "name": "阿里巴巴",
-      "code": "9988",
+      "name": "腾讯控股",
+      "code": "0700",
       "market": "港股",
       "industry": "互联网",
       "google": {
-        "growth_1m": -12.0,
-        "growth_3m": -8.3,
-        "recent_value": 22.0
+        "growth_1m": -27.9,
+        "growth_3m": -14.9,
+        "recent_value": 57.0
       },
       "platforms": {
         "微博热搜": {
@@ -282,8 +280,8 @@
       },
       "platform_count": 0,
       "trends": {
-        "google_1m": -12.0,
-        "google_3m": -8.3,
+        "google_1m": -27.9,
+        "google_3m": -14.9,
         "抖音_7d": null,
         "抖音_30d": null,
         "抖音_days": 92,
@@ -339,7 +337,7 @@
         "小红书_7d": null,
         "小红书_30d": null,
         "小红书_days": 92,
-        "微博_7d": null,
+        "微博_7d": -100.0,
         "微博_30d": null,
         "微博_days": 92,
         "知乎_7d": null,
@@ -676,7 +674,7 @@
       "trends": {
         "google_1m": -60.9,
         "google_3m": -54.4,
-        "抖音_7d": null,
+        "抖音_7d": -100.0,
         "抖音_30d": null,
         "抖音_days": 92,
         "小红书_7d": null,
@@ -686,7 +684,7 @@
         "微博_30d": null,
         "微博_days": 92,
         "知乎_7d": null,
-        "知乎_30d": -100.0,
+        "知乎_30d": null,
         "知乎_days": 92,
         "百度_7d": null,
         "百度_30d": null,
@@ -735,7 +733,7 @@
         "微博_30d": null,
         "微博_days": 92,
         "知乎_7d": null,
-        "知乎_30d": -100.0,
+        "知乎_30d": null,
         "知乎_days": 92,
         "百度_7d": null,
         "百度_30d": null,
@@ -747,48 +745,48 @@
     "抖音总榜": [
       {
         "rank": 1,
-        "title": "俄圣彼得堡石油码头遭乌袭击"
+        "title": "南北吃蟹大不同"
       },
       {
         "rank": 2,
-        "title": "前三季度我国GDP同比增长4.6% ​"
+        "title": "我关注的中国设计师都在抖音大秀"
       },
       {
         "rank": 3,
-        "title": "开局之年看中国潮涌荆楚"
+        "title": "何以中国当惊世界殊"
       },
       {
         "rank": 4,
-        "title": "广交会万品联通海内外"
+        "title": "非遗陶瓷有点东西"
       },
       {
         "rank": 5,
-        "title": "坐红飘带游遍贵州美景"
+        "title": "天黑了该我在乐园上场了"
       },
       {
         "rank": 6,
-        "title": "比冬天先来的是阿勒泰的回忆"
+        "title": "中国队夺拜仁青年杯冠军"
       },
       {
         "rank": 7,
-        "title": "法国爆发大规模骚乱"
+        "title": "曼城或被巨额扣分确保降级"
       },
       {
         "rank": 8,
-        "title": "S16瑞士轮首轮抽签结果"
+        "title": "专家谈美日大规模联合军演"
       },
       {
         "rank": 9,
-        "title": "同走长征路"
+        "title": "披旭日旗中国留学生已被遣返"
       },
       {
         "rank": 10,
-        "title": "欧洲多国爆发抗议潮"
+        "title": "一口气梳理维秘大秀造型看点"
       }
     ]
   },
   "meta": {
-    "data_time": "2026-10-19 10:20 CST",
+    "data_time": "2026-10-20 10:34 CST",
     "platforms": [
       "抖音总榜",
       "小红书热榜",
@@ -798,7 +796,7 @@
     ],
     "history": {
       "total_records": 10920,
-      "date_range": "2026-07-21 ~ 2026-10-19",
+      "date_range": "2026-07-22 ~ 2026-10-20",
       "days": 91,
       "companies": 15
     }
