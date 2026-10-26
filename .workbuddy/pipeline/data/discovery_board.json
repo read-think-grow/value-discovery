@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-25T10:14:13.622983+08:00",
+  "generated_at": "2026-10-26T10:14:34.715912+08:00",
   "system": "中国上市公司消费者行为雷达 v6.0",
   "brand_count": 15,
   "brands": [
     {
-      "name": "腾讯控股",
-      "code": "0700",
+      "name": "小米集团",
+      "code": "1810",
       "market": "港股",
-      "industry": "互联网",
+      "industry": "消费电子",
       "google": {
-        "growth_1m": -27.9,
-        "growth_3m": -14.9,
-        "recent_value": 57.0
+        "growth_1m": -25.0,
+        "growth_3m": -20.3,
+        "recent_value": 51.0
       },
       "platforms": {
         "微博热搜": {
           "count": 1,
           "titles": [
-            "微信被指在苹果折叠屏上公摊面积过大"
+            "钟文泽 小米18Fold"
           ]
         },
         "百度热搜": {
@@ -35,6 +35,57 @@
       },
       "platform_count": 1,
       "trends": {
+        "google_1m": -25.0,
+        "google_3m": -20.3,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 92,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 92,
+        "微博_7d": 0.0,
+        "微博_30d": null,
+        "微博_days": 92,
+        "知乎_7d": null,
+        "知乎_30d": null,
+        "知乎_days": 92,
+        "百度_7d": null,
+        "百度_30d": null,
+        "百度_days": 92
+      }
+    },
+    {
+      "name": "腾讯控股",
+      "code": "0700",
+      "market": "港股",
+      "industry": "互联网",
+      "google": {
+        "growth_1m": -27.9,
+        "growth_3m": -14.9,
+        "recent_value": 57.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "百度热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
+        },
+        "抖音总榜": {
+          "count": 1,
+          "titles": [
+            "2026王者荣耀共创之夜"
+          ]
+        }
+      },
+      "platform_count": 1,
+      "trends": {
         "google_1m": -27.9,
         "google_3m": -14.9,
         "抖音_7d": null,
@@ -43,8 +94,8 @@
         "小红书_7d": null,
         "小红书_30d": null,
         "小红书_days": 92,
-        "微博_7d": null,
-        "微博_30d": 0.0,
+        "微博_7d": -100.0,
+        "微博_30d": null,
         "微博_days": 92,
         "知乎_7d": null,
         "知乎_30d": null,
@@ -70,14 +121,14 @@
           "titles": []
         },
         "百度热搜": {
-          "count": 1,
-          "titles": [
-            "车辆被撞报废安全气囊未弹 小鹏回应"
-          ]
-        },
-        "知乎热榜": {
           "count": 0,
           "titles": []
+        },
+        "知乎热榜": {
+          "count": 1,
+          "titles": [
+            "如何看待小鹏副总裁称「老登」不指向用户，被喊「老登」的高管在内部反复表扬，该员工将继续站在发布会上？"
+          ]
         },
         "抖音总榜": {
           "count": 0,
@@ -121,14 +172,14 @@
           "titles": []
         },
         "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
           "count": 1,
           "titles": [
-            "如何看待 85 万新能源车成「电子孤儿」，修不了、卖不掉，连保险也拒绝担保？"
+            "上百万老电车集中脱保"
           ]
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
         },
         "抖音总榜": {
           "count": 0,
@@ -152,7 +203,7 @@
         "知乎_30d": null,
         "知乎_days": 92,
         "百度_7d": null,
-        "百度_30d": null,
+        "百度_30d": 0.0,
         "百度_days": 92
       }
     },
@@ -239,55 +290,6 @@
         "google_3m": 6.7,
         "抖音_7d": null,
         "抖音_30d": null,
-        "抖音_days": 92,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 92,
-        "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 92,
-        "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 92,
-        "百度_7d": null,
-        "百度_30d": null,
-        "百度_days": 92
-      }
-    },
-    {
-      "name": "小米集团",
-      "code": "1810",
-      "market": "港股",
-      "industry": "消费电子",
-      "google": {
-        "growth_1m": -25.0,
-        "growth_3m": -20.3,
-        "recent_value": 51.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
-          "count": 0,
-          "titles": []
-        }
-      },
-      "platform_count": 0,
-      "trends": {
-        "google_1m": -25.0,
-        "google_3m": -20.3,
-        "抖音_7d": null,
-        "抖音_30d": -100.0,
         "抖音_days": 92,
         "小红书_7d": null,
         "小红书_30d": null,
@@ -443,7 +445,7 @@
         "微博_30d": null,
         "微博_days": 92,
         "知乎_7d": null,
-        "知乎_30d": -100.0,
+        "知乎_30d": null,
         "知乎_days": 92,
         "百度_7d": null,
         "百度_30d": null,
@@ -749,48 +751,48 @@
     "抖音总榜": [
       {
         "rank": 1,
-        "title": "台湾光复81周年"
+        "title": "跟着现在就出发玩转九寨沟"
       },
       {
         "rank": 2,
-        "title": "第31号台风烟花已生成"
+        "title": "卢拉再次当选巴西总统"
       },
       {
         "rank": 3,
-        "title": "各类救援车辆星夜驰援西藏地震灾区"
+        "title": "引江补汉工程有多硬核"
       },
       {
         "rank": 4,
-        "title": "苏超半决赛落幕"
+        "title": "巴萨1:2皇马"
       },
       {
         "rank": 5,
-        "title": "GEN战胜HLE"
+        "title": "泰州队球员集体发抖音告别苏超"
       },
       {
         "rank": 6,
-        "title": "IG战胜TSW"
+        "title": "利物浦主场2:0击败布莱顿"
       },
       {
         "rank": 7,
-        "title": "台风蔷琵正在我国近海活跃"
+        "title": "日剧Vivant被曝抹黑中国"
       },
       {
         "rank": 8,
-        "title": "BLG对战TLAW"
+        "title": "Jason吴梦泪王不见王合拍"
       },
       {
         "rank": 9,
-        "title": "武汉三镇提前降级"
+        "title": "张雪机车刷新水上漂吉尼斯纪录"
       },
       {
         "rank": 10,
-        "title": "俄乌军方证实将在阿列什基停火"
+        "title": "上海久事卫冕超三联赛总冠军"
       }
     ]
   },
   "meta": {
-    "data_time": "2026-10-25 10:14 CST",
+    "data_time": "2026-10-26 10:14 CST",
     "platforms": [
       "抖音总榜",
       "小红书热榜",
@@ -800,7 +802,7 @@
     ],
     "history": {
       "total_records": 10920,
-      "date_range": "2026-07-27 ~ 2026-10-25",
+      "date_range": "2026-07-28 ~ 2026-10-26",
       "days": 91,
       "companies": 15
     }
