@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-07T11:41:03.952246+08:00",
+  "generated_at": "2026-11-08T11:16:15.881484+08:00",
   "system": "中国上市公司消费者行为雷达 v6.0",
   "brand_count": 15,
   "brands": [
     {
-      "name": "小米集团",
-      "code": "1810",
+      "name": "阿里巴巴",
+      "code": "9988",
       "market": "港股",
-      "industry": "消费电子",
+      "industry": "互联网",
       "google": {
-        "growth_1m": -25.0,
-        "growth_3m": -20.3,
-        "recent_value": 51.0
+        "growth_1m": -12.0,
+        "growth_3m": -8.3,
+        "recent_value": 22.0
       },
       "platforms": {
         "微博热搜": {
-          "count": 1,
-          "titles": [
-            "小米澎程主驾车门被撞仍保护车主"
-          ]
+          "count": 0,
+          "titles": []
         },
         "百度热搜": {
           "count": 0,
           "titles": []
         },
         "知乎热榜": {
-          "count": 0,
-          "titles": []
+          "count": 1,
+          "titles": [
+            "外卖大战一年，美团、阿里、京东三家亏掉上千亿，怎么看这一结果？未来的外卖市场可能是什么走向？"
+          ]
         },
         "抖音总榜": {
           "count": 0,
@@ -35,15 +35,66 @@
       },
       "platform_count": 1,
       "trends": {
-        "google_1m": -25.0,
-        "google_3m": -20.3,
+        "google_1m": -12.0,
+        "google_3m": -8.3,
         "抖音_7d": null,
         "抖音_30d": null,
         "抖音_days": 92,
         "小红书_7d": null,
         "小红书_30d": null,
         "小红书_days": 92,
-        "微博_7d": 0.0,
+        "微博_7d": null,
+        "微博_30d": -100.0,
+        "微博_days": 92,
+        "知乎_7d": null,
+        "知乎_30d": null,
+        "知乎_days": 92,
+        "百度_7d": null,
+        "百度_30d": null,
+        "百度_days": 92
+      }
+    },
+    {
+      "name": "美团",
+      "code": "3690",
+      "market": "港股",
+      "industry": "本地生活",
+      "google": {
+        "growth_1m": -60.4,
+        "growth_3m": -46.3,
+        "recent_value": 36.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "百度热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "知乎热榜": {
+          "count": 1,
+          "titles": [
+            "外卖大战一年，美团、阿里、京东三家亏掉上千亿，怎么看这一结果？未来的外卖市场可能是什么走向？"
+          ]
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
+        }
+      },
+      "platform_count": 1,
+      "trends": {
+        "google_1m": -60.4,
+        "google_3m": -46.3,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 92,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 92,
+        "微博_7d": null,
         "微博_30d": null,
         "微博_days": 92,
         "知乎_7d": null,
@@ -55,19 +106,21 @@
       }
     },
     {
-      "name": "腾讯控股",
-      "code": "0700",
+      "name": "携程",
+      "code": "9961",
       "market": "港股",
-      "industry": "互联网",
+      "industry": "在线旅游",
       "google": {
-        "growth_1m": -27.9,
-        "growth_3m": -14.9,
-        "recent_value": 57.0
+        "growth_1m": -18.2,
+        "growth_3m": -16.3,
+        "recent_value": 36.0
       },
       "platforms": {
         "微博热搜": {
-          "count": 0,
-          "titles": []
+          "count": 1,
+          "titles": [
+            "爸爸去哪儿3重聚为康康庆生"
+          ]
         },
         "百度热搜": {
           "count": 0,
@@ -78,16 +131,14 @@
           "titles": []
         },
         "抖音总榜": {
-          "count": 1,
-          "titles": [
-            "JDG晋级王者荣耀年总决赛"
-          ]
+          "count": 0,
+          "titles": []
         }
       },
       "platform_count": 1,
       "trends": {
-        "google_1m": -27.9,
-        "google_3m": -14.9,
+        "google_1m": -18.2,
+        "google_3m": -16.3,
         "抖音_7d": null,
         "抖音_30d": null,
         "抖音_days": 92,
@@ -204,6 +255,55 @@
       }
     },
     {
+      "name": "小米集团",
+      "code": "1810",
+      "market": "港股",
+      "industry": "消费电子",
+      "google": {
+        "growth_1m": -25.0,
+        "growth_3m": -20.3,
+        "recent_value": 51.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "百度热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
+        }
+      },
+      "platform_count": 0,
+      "trends": {
+        "google_1m": -25.0,
+        "google_3m": -20.3,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 92,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 92,
+        "微博_7d": -100.0,
+        "微博_30d": -100.0,
+        "微博_days": 92,
+        "知乎_7d": -100.0,
+        "知乎_30d": null,
+        "知乎_days": 92,
+        "百度_7d": null,
+        "百度_30d": null,
+        "百度_days": 92
+      }
+    },
+    {
       "name": "东方甄选",
       "code": "1797",
       "market": "港股",
@@ -253,14 +353,14 @@
       }
     },
     {
-      "name": "阿里巴巴",
-      "code": "9988",
+      "name": "腾讯控股",
+      "code": "0700",
       "market": "港股",
       "industry": "互联网",
       "google": {
-        "growth_1m": -12.0,
-        "growth_3m": -8.3,
-        "recent_value": 22.0
+        "growth_1m": -27.9,
+        "growth_3m": -14.9,
+        "recent_value": 57.0
       },
       "platforms": {
         "微博热搜": {
@@ -282,8 +382,8 @@
       },
       "platform_count": 0,
       "trends": {
-        "google_1m": -12.0,
-        "google_3m": -8.3,
+        "google_1m": -27.9,
+        "google_3m": -14.9,
         "抖音_7d": null,
         "抖音_30d": null,
         "抖音_days": 92,
@@ -291,13 +391,13 @@
         "小红书_30d": null,
         "小红书_days": 92,
         "微博_7d": null,
-        "微博_30d": null,
+        "微博_30d": -100.0,
         "微博_days": 92,
         "知乎_7d": null,
         "知乎_30d": null,
         "知乎_days": 92,
         "百度_7d": null,
-        "百度_30d": null,
+        "百度_30d": -100.0,
         "百度_days": 92
       }
     },
@@ -333,104 +433,6 @@
       "trends": {
         "google_1m": -2.2,
         "google_3m": 8.4,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 92,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 92,
-        "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 92,
-        "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 92,
-        "百度_7d": null,
-        "百度_30d": null,
-        "百度_days": 92
-      }
-    },
-    {
-      "name": "美团",
-      "code": "3690",
-      "market": "港股",
-      "industry": "本地生活",
-      "google": {
-        "growth_1m": -60.4,
-        "growth_3m": -46.3,
-        "recent_value": 36.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
-          "count": 0,
-          "titles": []
-        }
-      },
-      "platform_count": 0,
-      "trends": {
-        "google_1m": -60.4,
-        "google_3m": -46.3,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 92,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 92,
-        "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 92,
-        "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 92,
-        "百度_7d": null,
-        "百度_30d": null,
-        "百度_days": 92
-      }
-    },
-    {
-      "name": "携程",
-      "code": "9961",
-      "market": "港股",
-      "industry": "在线旅游",
-      "google": {
-        "growth_1m": -18.2,
-        "growth_3m": -16.3,
-        "recent_value": 36.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
-          "count": 0,
-          "titles": []
-        }
-      },
-      "platform_count": 0,
-      "trends": {
-        "google_1m": -18.2,
-        "google_3m": -16.3,
         "抖音_7d": null,
         "抖音_30d": null,
         "抖音_days": 92,
@@ -747,48 +749,48 @@
     "抖音总榜": [
       {
         "rank": 1,
-        "title": "国防部回应攻击-21在四川舰起降"
+        "title": "入冬第一顿火锅爆爽不烧心"
       },
       {
         "rank": 2,
-        "title": "今日立冬积极过冬"
+        "title": "寻找你的答案之书"
       },
       {
         "rank": 3,
-        "title": "进博会外商抢抓合作商机"
+        "title": "三个维度看消费市场动能"
       },
       {
         "rank": 4,
-        "title": "我的不烧心旅行地藏不住了"
+        "title": "以总统授权埃森科特组建新政府"
       },
       {
         "rank": 5,
-        "title": "波尔津吉斯因健康原因暂别篮坛"
+        "title": "伊朗解除导弹射程限制"
       },
       {
         "rank": 6,
-        "title": "民间大爷纯手搓复刻应县木塔"
+        "title": "两部门部署暴雪暴雨防范应对"
       },
       {
         "rank": 7,
-        "title": "希望这个冬天淡淡的顺顺的"
+        "title": "拉塞尔质疑梅奔队内问题频出"
       },
       {
         "rank": 8,
-        "title": "又到穿费尔岛的季节了"
+        "title": "今年第32号台风查帕卡生成"
       },
       {
         "rank": 9,
-        "title": "好闺闺都要吃的入冬九件套"
+        "title": "各级国足集训大名单公布"
       },
       {
         "rank": 10,
-        "title": "北京下雪"
+        "title": "这段红色历史跳出课本直抵人心"
       }
     ]
   },
   "meta": {
-    "data_time": "2026-11-07 11:41 CST",
+    "data_time": "2026-11-08 11:16 CST",
     "platforms": [
       "抖音总榜",
       "小红书热榜",
@@ -798,7 +800,7 @@
     ],
     "history": {
       "total_records": 10920,
-      "date_range": "2026-08-09 ~ 2026-11-07",
+      "date_range": "2026-08-10 ~ 2026-11-08",
       "days": 91,
       "companies": 15
     }
