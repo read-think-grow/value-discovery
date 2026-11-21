@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T12:49:40.200359+08:00",
+  "generated_at": "2026-11-21T12:44:17.198773+08:00",
   "system": "中国上市公司消费者行为雷达 v6.0",
   "brand_count": 15,
   "brands": [
@@ -15,27 +15,25 @@
       },
       "platforms": {
         "微博热搜": {
-          "count": 1,
-          "titles": [
-            "小米18"
-          ]
-        },
-        "百度热搜": {
-          "count": 1,
-          "titles": [
-            "罗福莉要单飞？小米大模型被曝分拆"
-          ]
-        },
-        "知乎热榜": {
           "count": 0,
           "titles": []
+        },
+        "百度热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "知乎热榜": {
+          "count": 1,
+          "titles": [
+            "雷军称明年小米汽车正式出海，强调和当地供应链深度合作，如何看待小米汽车出海的时机与打法？"
+          ]
         },
         "抖音总榜": {
           "count": 0,
           "titles": []
         }
       },
-      "platform_count": 2,
+      "platform_count": 1,
       "trends": {
         "google_1m": -25.0,
         "google_3m": -20.3,
@@ -57,14 +55,14 @@
       }
     },
     {
-      "name": "腾讯控股",
-      "code": "0700",
+      "name": "阿里巴巴",
+      "code": "9988",
       "market": "港股",
       "industry": "互联网",
       "google": {
-        "growth_1m": -27.9,
-        "growth_3m": -14.9,
-        "recent_value": 57.0
+        "growth_1m": -12.0,
+        "growth_3m": -8.3,
+        "recent_value": 22.0
       },
       "platforms": {
         "微博热搜": {
@@ -72,15 +70,14 @@
           "titles": []
         },
         "百度热搜": {
-          "count": 0,
-          "titles": []
+          "count": 1,
+          "titles": [
+            "美团、京东、阿里集体盯上了厨房"
+          ]
         },
         "知乎热榜": {
-          "count": 2,
-          "titles": [
-            "腾讯披露WorkBuddy近七天年化收入超5亿美元，有用户月付4万元买服务，数据背后有多大「含金量」",
-            "腾讯姚顺雨主导AI架构精简，而全公司11万人面临大调整，这类扁平化变革落地难点在哪？"
-          ]
+          "count": 0,
+          "titles": []
         },
         "抖音总榜": {
           "count": 0,
@@ -89,10 +86,10 @@
       },
       "platform_count": 1,
       "trends": {
-        "google_1m": -27.9,
-        "google_3m": -14.9,
+        "google_1m": -12.0,
+        "google_3m": -8.3,
         "抖音_7d": null,
-        "抖音_30d": -100.0,
+        "抖音_30d": null,
         "抖音_days": 92,
         "小红书_7d": null,
         "小红书_30d": null,
@@ -100,11 +97,62 @@
         "微博_7d": null,
         "微博_30d": null,
         "微博_days": 92,
-        "知乎_7d": 0.0,
-        "知乎_30d": 100.0,
+        "知乎_7d": -100.0,
+        "知乎_30d": null,
         "知乎_days": 92,
-        "百度_7d": -100.0,
-        "百度_30d": -100.0,
+        "百度_7d": null,
+        "百度_30d": null,
+        "百度_days": 92
+      }
+    },
+    {
+      "name": "美团",
+      "code": "3690",
+      "market": "港股",
+      "industry": "本地生活",
+      "google": {
+        "growth_1m": -60.4,
+        "growth_3m": -46.3,
+        "recent_value": 36.0
+      },
+      "platforms": {
+        "微博热搜": {
+          "count": 0,
+          "titles": []
+        },
+        "百度热搜": {
+          "count": 1,
+          "titles": [
+            "美团、京东、阿里集体盯上了厨房"
+          ]
+        },
+        "知乎热榜": {
+          "count": 0,
+          "titles": []
+        },
+        "抖音总榜": {
+          "count": 0,
+          "titles": []
+        }
+      },
+      "platform_count": 1,
+      "trends": {
+        "google_1m": -60.4,
+        "google_3m": -46.3,
+        "抖音_7d": null,
+        "抖音_30d": null,
+        "抖音_days": 92,
+        "小红书_7d": null,
+        "小红书_30d": null,
+        "小红书_days": 92,
+        "微博_7d": null,
+        "微博_30d": null,
+        "微博_days": 92,
+        "知乎_7d": null,
+        "知乎_30d": null,
+        "知乎_days": 92,
+        "百度_7d": null,
+        "百度_30d": null,
         "百度_days": 92
       }
     },
@@ -256,14 +304,14 @@
       }
     },
     {
-      "name": "阿里巴巴",
-      "code": "9988",
+      "name": "腾讯控股",
+      "code": "0700",
       "market": "港股",
       "industry": "互联网",
       "google": {
-        "growth_1m": -12.0,
-        "growth_3m": -8.3,
-        "recent_value": 22.0
+        "growth_1m": -27.9,
+        "growth_3m": -14.9,
+        "recent_value": 57.0
       },
       "platforms": {
         "微博热搜": {
@@ -285,8 +333,8 @@
       },
       "platform_count": 0,
       "trends": {
-        "google_1m": -12.0,
-        "google_3m": -8.3,
+        "google_1m": -27.9,
+        "google_3m": -14.9,
         "抖音_7d": null,
         "抖音_30d": null,
         "抖音_days": 92,
@@ -297,10 +345,10 @@
         "微博_30d": null,
         "微博_days": 92,
         "知乎_7d": null,
-        "知乎_30d": null,
+        "知乎_30d": -100.0,
         "知乎_days": 92,
         "百度_7d": null,
-        "百度_30d": null,
+        "百度_30d": -100.0,
         "百度_days": 92
       }
     },
@@ -336,55 +384,6 @@
       "trends": {
         "google_1m": -2.2,
         "google_3m": 8.4,
-        "抖音_7d": null,
-        "抖音_30d": null,
-        "抖音_days": 92,
-        "小红书_7d": null,
-        "小红书_30d": null,
-        "小红书_days": 92,
-        "微博_7d": null,
-        "微博_30d": null,
-        "微博_days": 92,
-        "知乎_7d": null,
-        "知乎_30d": null,
-        "知乎_days": 92,
-        "百度_7d": null,
-        "百度_30d": null,
-        "百度_days": 92
-      }
-    },
-    {
-      "name": "美团",
-      "code": "3690",
-      "market": "港股",
-      "industry": "本地生活",
-      "google": {
-        "growth_1m": -60.4,
-        "growth_3m": -46.3,
-        "recent_value": 36.0
-      },
-      "platforms": {
-        "微博热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "百度热搜": {
-          "count": 0,
-          "titles": []
-        },
-        "知乎热榜": {
-          "count": 0,
-          "titles": []
-        },
-        "抖音总榜": {
-          "count": 0,
-          "titles": []
-        }
-      },
-      "platform_count": 0,
-      "trends": {
-        "google_1m": -60.4,
-        "google_3m": -46.3,
         "抖音_7d": null,
         "抖音_30d": null,
         "抖音_days": 92,
@@ -689,10 +688,10 @@
         "微博_30d": null,
         "微博_days": 92,
         "知乎_7d": null,
-        "知乎_30d": -100.0,
+        "知乎_30d": null,
         "知乎_days": 92,
         "百度_7d": null,
-        "百度_30d": -100.0,
+        "百度_30d": null,
         "百度_days": 92
       }
     },
@@ -750,48 +749,48 @@
     "抖音总榜": [
       {
         "rank": 1,
-        "title": "U17男足首战对阵西班牙"
+        "title": "U17男足0:5西班牙"
       },
       {
         "rank": 2,
-        "title": "世界目光聚焦APEC"
+        "title": "终于懂李白走到哪都写诗了"
       },
       {
         "rank": 3,
-        "title": "APEC外宾游深圳邂逅地道美食"
+        "title": "APEC红利看得见摸得着"
       },
       {
         "rank": 4,
-        "title": "李在明发文感谢中国热情接待"
+        "title": "美国三大股指全线大跌"
       },
       {
         "rank": 5,
-        "title": "APEC会议围巾的中国式浪漫"
+        "title": "贺炜长文鼓励U17中国队"
       },
       {
         "rank": 6,
-        "title": "APEC晚宴荔枝冰酒厂家回应"
+        "title": "特朗普回应普京是否为美国朋友"
       },
       {
         "rank": 7,
-        "title": "普京用中文向APEC与会者致谢"
+        "title": "粤菜亮相APEC欢迎晚宴"
       },
       {
         "rank": 8,
-        "title": "一组对比照片看深圳沧海桑田"
+        "title": "灯火里的深圳 照见开放与活力"
       },
       {
         "rank": 9,
-        "title": "APEC带给年轻人哪些新机遇"
+        "title": "特朗普公开点赞深圳干净整洁"
       },
       {
         "rank": 10,
-        "title": "现货黄金跌破3600美元"
+        "title": "高市早苗搭话特朗普遭无视"
       }
     ]
   },
   "meta": {
-    "data_time": "2026-11-20 12:49 CST",
+    "data_time": "2026-11-21 12:44 CST",
     "platforms": [
       "抖音总榜",
       "小红书热榜",
@@ -801,7 +800,7 @@
     ],
     "history": {
       "total_records": 10920,
-      "date_range": "2026-08-22 ~ 2026-11-20",
+      "date_range": "2026-08-23 ~ 2026-11-21",
       "days": 91,
       "companies": 15
     }
